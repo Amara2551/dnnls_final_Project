@@ -82,6 +82,10 @@ It reduced the final total loss from:
 to
 - **0.592998**
 
+<img width="867" height="466" alt="image" src="https://github.com/user-attachments/assets/7375c4b2-c217-4cb5-a50d-7b417e7d6c52" />
+
+
+
 This suggests that grounding improved the model’s ability to connect visual evidence with the story text.
 
 ### Contrastive-only
