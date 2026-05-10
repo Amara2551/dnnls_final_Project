@@ -82,7 +82,12 @@ It reduced the final total loss from:
 to
 - **0.592998**
 
-<img width="867" height="466" alt="image" src="https://github.com/user-attachments/assets/7375c4b2-c217-4cb5-a50d-7b417e7d6c52" />
+<img width="886" height="447" alt="image" src="https://github.com/user-attachments/assets/1bd1bd77-1ba6-4ce2-9875-d4246d8f0551" />
+<img width="842" height="550" alt="image" src="https://github.com/user-attachments/assets/1baad0cc-5143-4d0b-b731-b12a86c9459e" />
+<img width="1137" height="280" alt="image" src="https://github.com/user-attachments/assets/17433be7-a50c-44a7-9884-75163c206f77" />
+
+
+
 
 
 
